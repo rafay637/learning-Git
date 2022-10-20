@@ -1,0 +1,76 @@
+a {
+    text-decoration: none;
+}
+
+button {
+    border-radius: 1em;
+}
+
+#image {
+    color: rgba(0, 0, 0, 8);
+}
+
+.main {
+    justify-content: center;
+    position: relative;
+    bottom: 15em;
+    left: 15em;
+    color: white;
+}
+
+.sub {
+    justify-content: center;
+    position: relative;
+    bottom: 38em;
+    left: 27em;
+    color: white;
+}
+
+.shut {
+    position: relative;
+    bottom: 37em;
+    left: 37em;
+}
+
+.future {
+    position: relative;
+    bottom: 3em;
+    left: 5em;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.bgmi {
+    height: 80px;
+    padding: 15px;
+    position: relative;
+    bottom: 4em;
+    left: 7em;
+}
+
+.mine {
+    background-color: aliceblue;
+    text-align: center;
+}
+.us i{
+    font-size: xx-large;
+    color: green;
+}
+.huihui{
+    background-color: lightcoral;
+    color: white;
+}
+.haha{
+    display: flex;
+    padding: 10px;
+}
+.hiby{
+    background-color: lightcoral;
+    color: white;
+}
+.noway{
+    color: black;
+    padding: 15px 6px ;
+    align-items: center;
+    text-align: center;
+}
